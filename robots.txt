@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-uo4a52.pulaucuan.org/sitemap.xml
